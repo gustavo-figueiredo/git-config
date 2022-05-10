@@ -24,5 +24,4 @@ git config --global --edit
 ## alias
 
 [alias]
-    s = !git status
-    
+    s = !git status -s
